@@ -13,6 +13,9 @@ public class GitTest {
         System.out.println("测试合并冲突----master 提交本地库");
 
 
+
+        System.out.println("测试合并冲突-----hot-fox提交本地库");
+
     }
 
 }
