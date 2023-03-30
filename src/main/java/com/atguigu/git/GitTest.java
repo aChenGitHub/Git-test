@@ -9,6 +9,10 @@ public class GitTest {
         System.out.println("hello hot-fox");
         System.out.println("hello hot-fox");
         System.out.println("1111111");
+
+        System.out.println("测试合并冲突----master 提交本地库");
+
+
     }
 
 }
